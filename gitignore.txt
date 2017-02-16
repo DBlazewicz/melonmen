@@ -1,0 +1,6 @@
+Temp/
+Obj/
+UnityGenerated/
+Library/
+
+*.pidb.meta
